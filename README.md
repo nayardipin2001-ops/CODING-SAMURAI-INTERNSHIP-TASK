@@ -1,12 +1,10 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
 Multi-Project Machine Learning Portfolio
 This repository showcases fundamental machine learning concepts and workflows through two distinct projects: Classification (Titanic Survival) and Regression (Advertising Sales).
-
 1. Titanic Survival Prediction (Classification)
 This project applies a Logistic Regression model to predict passenger survival on the historic Titanic dataset.
 Model & Task:
 Model: Logistic Regression
-
 Task: Binary Classification (Survived/Did Not Survive)
 Key Features & Analysis:
 Data Preparation: Loading, cleaning missing data (Age), and simplifying the feature set.
@@ -28,7 +26,5 @@ Model Evaluation: Assesses predictive accuracy using critical regression metrics
 $R^2$ Score
 Mean Squared Error (MSE)
 Mean Absolute Error (MAE)
-
 Visualization: Visualizes the model's predictive quality by comparing Actual vs. Predicted Sales values.
-
 Outcome: A clear, quantitative analysis to help optimize future advertising budget allocation.
